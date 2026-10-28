@@ -1,0 +1,6 @@
+{
+  "name": "Aurea — Personal Life Operating System",
+  "description": "A privacy-first, local-first personal operating system for intentional living, connecting goals, daily habits, reflective notes, relationships, and life milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
